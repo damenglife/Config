@@ -88,15 +88,27 @@ https://kelee.one/Tool/Loon/Lsr/REGION_SPLITTER.lsr, policy=DIRECT, tag=CN REGIO
 [Script]
 
 [Plugin]
-https://kelee.one/Tool/Loon/Lpx/SuZhouCitizenCard_remove_ads.lpx, tag=zhsz, enabled=true
-https://kelee.one/Tool/Loon/Lpx/FleaMarket_remove_ads.lpx, tag=Xianyu, enabled=true
-https://kelee.one/Tool/Loon/Lpx/NeteaseCloudMusic_remove_ads.lpx, tag=WYY, enabled=true
-https://kelee.one/Tool/Loon/Lpx/Taobao_remove_ads.lpx, tag=Taobao, enabled=true
+https://kelee.one/Tool/Loon/Lpx/LOL_Bible_remove_ads.lpx, tag=掌盟, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Weibo_remove_ads.lpx, tag=微博, enabled=true
+https://kelee.one/Tool/Loon/Lpx/KuaiDi100_remove_ads.lpx, tag=快递100, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Remove_ads_by_keli.lpx, tag=可莉自用去广告, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Cainiao_remove_ads.lpx, tag=菜鸟, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Bilibili_remove_ads.lpx, tag=bilibili, enabled=true
+https://kelee.one/Tool/Loon/Lpx/BaiduNetDisk_remove_ads.lpx, tag=百度网盘, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Tieba_remove_ads.lpx, tag=百度贴吧, enabled=true
+https://kelee.one/Tool/Loon/Lpx/iQiYi_Video_remove_ads.lpx, tag=爱奇艺, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Soul_remove_ads.lpx, tag=Soul, enabled=true
+https://kelee.one/Tool/Loon/Lpx/QQMusic_remove_ads.lpx, tag=QQ音乐, enabled=true
+https://kelee.one/Tool/Loon/Lpx/12306_remove_ads.lpx, tag=12306, enabled=true
+https://kelee.one/Tool/Loon/Lpx/SuZhouCitizenCard_remove_ads.lpx, tag=智慧苏州, enabled=true
+https://kelee.one/Tool/Loon/Lpx/FleaMarket_remove_ads.lpx, tag=闲鱼, enabled=true
+https://kelee.one/Tool/Loon/Lpx/NeteaseCloudMusic_remove_ads.lpx, tag=网易云, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Taobao_remove_ads.lpx, tag=淘宝, enabled=true
 https://kelee.one/Tool/Loon/Lpx/51Job_remove_ads.lpx, tag=51Job, enabled=true
 https://kelee.one/Tool/Loon/Lpx/PinDuoDuo_remove_ads.lpx, tag=PDD, enabled=true
-https://kelee.one/Tool/Loon/Lpx/JD_remove_ads.lpx, tag=Jingdong, enabled=true
-https://kelee.one/Tool/Loon/Lpx/Amap_remove_ads.lpx, tag=Gaode, enabled=true
-https://kelee.one/Tool/Loon/Lpx/Zhihu_remove_ads.lpx, tag=Zhihu, enabled=true
+https://kelee.one/Tool/Loon/Lpx/JD_remove_ads.lpx, tag=京东, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Amap_remove_ads.lpx, tag=高德, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Zhihu_remove_ads.lpx, tag=知乎, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Block_HTTPDNS.lpx, pin=true, enabled=true
 https://kelee.one/Tool/Loon/Lpx/BlockAdvertisers.lpx, pin=true, enabled=true
 https://kelee.one/Tool/Loon/Lpx/QuickSearch.lpx, enabled=true
